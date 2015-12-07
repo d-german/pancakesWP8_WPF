@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PancakeModel", "PancakeMode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PancakesWP8MvvmLight", "PancakesWP8MvvmLight\PancakesWP8MvvmLight\PancakesWP8MvvmLight.csproj", "{16548364-B684-4734-84C1-A7A9EDD8F236}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PancakesDesktop", "PancakesDesktop\PancakesDesktop.csproj", "{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,16 @@ Global
 		{16548364-B684-4734-84C1-A7A9EDD8F236}.Release|x86.ActiveCfg = Release|x86
 		{16548364-B684-4734-84C1-A7A9EDD8F236}.Release|x86.Build.0 = Release|x86
 		{16548364-B684-4734-84C1-A7A9EDD8F236}.Release|x86.Deploy.0 = Release|x86
+		{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}.Release|ARM.ActiveCfg = Release|Any CPU
+		{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}.Release|x64.ActiveCfg = Release|Any CPU
+		{CC1C381C-FA93-4CFD-A4CB-5CEB42ABC6F3}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
